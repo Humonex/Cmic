@@ -1,2 +1,2 @@
 # Cmic
-This is a professional quality score compressor which supposes random access.
+This is a compressor specially for quality scores which supposes random access.
