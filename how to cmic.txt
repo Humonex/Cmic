@@ -1,5 +1,5 @@
  The ZPAQ Version is fllowing:
- LIBZPAQ Version 7.15 implementation - Aug. 17, 2016.
+ The reason we use :LIBZPAQ Version 7.15 implementation - Aug. 17, 2016.
  If you want to download other version, please visit http://mattmahoney.net/zpaq/.
  For cmiccompression: cmic c <input-file> <output-file>. \nExample: cmic c sample.in sample.cmic.\n");
  For cmicdecompression: cmic d <input-file> <output-file>. \nExample: cmic d sample.cmic sample.in.\n");
